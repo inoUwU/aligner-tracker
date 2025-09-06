@@ -1,9 +1,11 @@
 [application]
+out_dir =  "docs"
 
 [web.app]
 
 # HTML title tag content
 title = "aligner-tracker"
+base_path = "aligner-tracker"
 
 # include `assets` in web platform
 [web.resource]
